@@ -1,0 +1,18 @@
+{
+  "name": "shortlink",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@vercel/postgres": "^0.10.0",
+    "@tailwindcss/postcss": "^4.0.0",
+    "next": "^15.1.6",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "tailwindcss": "^4.0.0"
+  }
+}
